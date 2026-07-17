@@ -2,6 +2,10 @@
 
 A Double Deep Q-Network trained on candlestick chart images for S&P 500 trading — an attempted replication of [Brim & Flann (2022), *Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images*, PLOS ONE 17(2): e0263181](https://doi.org/10.1371/journal.pone.0263181).
 
+
+<img width="559" height="298" alt="image" src="https://github.com/user-attachments/assets/90504571-e34e-41be-8307-a30923f87aaf" />
+
+
 ## Approach
 Following the paper's specification:
 - Daily OHLC prices (2013–2019 training) rendered as 84×84 grayscale candlestick images
